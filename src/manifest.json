@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Node Package Manager NPM Search",
+  "version": "0.0.1",
+  "description": "Search Node Package Manager from URL bar",
+  "icons": {
+    "64": "icons/npm.png"
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "NPM packages",
+      "search_url": "https://www.npmjs.com/search?q={searchTerms}",
+      "favicon_url": "https://static.npmjs.com/f1786e9b7cba9753ca7b9c40e8b98f67.png",
+      "keyword": "npm"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{4af824b8-58e5-47c6-8660-7ed4d1e56e52}",
+      "strict_min_version": "55.0"
+    }
+  }
+}
