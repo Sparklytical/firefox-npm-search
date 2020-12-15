@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Search Node Package Manager from URL bar",
   "icons": {
-    "64": "icons/npm.png"
+    "64": "icons/npm64.png"
   },
   "chrome_settings_overrides": {
     "search_provider": {
