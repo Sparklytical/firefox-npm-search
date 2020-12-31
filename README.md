@@ -1,6 +1,6 @@
 # Arch Linux AUR package search add-on for Firefox
 
-Install from [AMO](https://addons.mozilla.org/en-US/firefox/addon/node-package-manager-search).
+Install from [Mozilla Addon Store](https://addons.mozilla.org/en-US/firefox/addon/npm/).
 
 ## Develop
 
