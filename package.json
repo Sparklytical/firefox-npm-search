@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/Sparklytical/firefox-npm-search/issues"
   },
-  "homepage": "https://addons.mozilla.org/en-US/firefox/addon/npm-search-webext/",
+  "homepage": "https://addons.mozilla.org/en-US/firefox/addon/npm/",
   "scripts": {
     "test": "web-ext lint",
     "build": "web-ext build --overwrite-dest",
